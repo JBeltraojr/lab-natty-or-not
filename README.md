@@ -1,4 +1,4 @@
-# IA e os novos usuários mais velhos ;)
+# IA e os novos usuários mais velhos. 
 
 ## 📒 Descrição
 A revolução da Inteligência Artificial (IA) está transformando diversas áreas da vida cotidiana, tornando-se uma ferramenta indispensável para muitas pessoas. Enquanto muitos associam essas inovações a jovens e entusiastas da tecnologia, uma nova e importante tendência está emergindo: a adoção da IA por usuários mais velhos. Esses indivíduos, que muitas vezes têm décadas de experiência com outras tecnologias, estão descobrindo na IA uma aliada poderosa para melhorar sua qualidade de vida, facilitar tarefas diárias e manter-se conectados em um mundo cada vez mais digital. Este artigo explora como essa geração mais experiente está se adaptando, aprendendo e tirando proveito das novas possibilidades oferecidas pela Inteligência Artificial.
@@ -12,7 +12,7 @@ A descrição, usei o Copilot, onde fiz a seguinte pergunta "Criar texto introdu
 A imagem foi gerada no Image Creator from Microsoft Designer, com o seguinte prompt "pessoas com 53 anos, traços brasileiro, homem, vestido para trabalhar e usando IA generativa"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para saber mais sobre o IA e os novos usuários mais velhos, [acesse aqui](https://github.com/JBeltraojr/lab-natty-or-not/edit/main/README.md)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio deste laboratório, é uma ótima reclexaão para entender que a IA generativa ajuda no desenvolvimento de um projeto, mas que nunca deve substitur a ideia.
